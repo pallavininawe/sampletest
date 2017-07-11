@@ -1,5 +1,7 @@
-a=raw_input("Enter a letter")
-if (a == 'a' or a == 'A' or a == 'E' or a == 'I' or a == 'O' or a == 'U' or a == 'e' or a == 'i' or a == 'o' or a == 'u'):
+import string
+a=raw_input("Enter a letter : ")
+upper=a.upper()
+if ( upper == 'A' or upper == 'E' or upper== 'I' or upper== 'O' or upper== 'U'):
 	print("Vowel")
 else:
 	print("Consonent")

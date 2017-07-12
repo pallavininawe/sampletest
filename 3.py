@@ -9,5 +9,6 @@ if j < int(b/2 + 1):
 	print ("not a palindrome")
 else:
 	print ("palindrome")
-	asdfhuujf]
-	IWEUFHWEUI
+
+	hsdgsagh
+
